@@ -8,6 +8,8 @@
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
+        "UpdateSourceConditionSetting": "Update",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
